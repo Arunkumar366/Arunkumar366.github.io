@@ -1,6 +1,6 @@
 // background image slider
 
-const sliderImage = ["tajmahal.png","jaipur.png","TN.png","vadaku.png","kerala.png","blue.png","old.jpg"];
+const sliderImage = ["tajmahal1.png","jaipur01.png","TN1.png","vadaku1.png","kerala01.png","blue01.png","old.jpg"];
 
 let slider = document.querySelector('.background-image');
 let sliderGridItems = [...document.querySelectorAll('.grid-item')];
